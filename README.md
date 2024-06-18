@@ -63,7 +63,7 @@ The confusion matrix shows that most categories are correctly classified. Howeve
 #### Precision and F1-Score Tables by Class
 Precision and F1-score tables per class provide a detailed view of the model's performance for each news category, highlighting where the model excels and where improvements could be made.   
 
-![image](https://github.com/najwanaamane/NLP-paper-implementation/assets/86806375/17739909-e569-4b78-95c7-29c96bf56ee9)    
+![image](https://github.com/najwanaamane/NLP-paper-implementation/assets/86806375/f41bf647-7480-45f4-aa5b-1ef55c49adaa)
 ![image](https://github.com/najwanaamane/NLP-paper-implementation/assets/86806375/8cf1e44d-3913-4fb2-8790-384f59908ee2)
 
 
@@ -82,4 +82,6 @@ The precision and F1-score tables per class indicate that categories like "sport
 
 ---
 
-This README provides a comprehensive overview of the project's objectives, methodology, state of the art approaches, dataset details, implementation techniques, results interpretation, and critique of the work. It serves as a valuable resource for understanding the project's context, methods, and findings.
+
+For more details, you can refer to the original paper: [A Novel Text Mining Approach Based on TF-IDF and Support Vector Machine for News Classification](https://ieeexplore.ieee.org/document/7569223).
+
