@@ -64,7 +64,7 @@ The confusion matrix shows that most categories are correctly classified. Howeve
 Precision and F1-score tables per class provide a detailed view of the model's performance for each news category, highlighting where the model excels and where improvements could be made.   
 
 ![image](https://github.com/najwanaamane/NLP-paper-implementation/assets/86806375/f41bf647-7480-45f4-aa5b-1ef55c49adaa)
-![image](https://github.com/najwanaamane/NLP-paper-implementation/assets/86806375/8cf1e44d-3913-4fb2-8790-384f59908ee2)
+![image](https://github.com/najwanaamane/NLP-paper-implementation/assets/86806375/5103bb14-0e37-483f-89e1-c42e0b006b66)
 
 
 ### Interpretation of Results
