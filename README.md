@@ -8,8 +8,6 @@ A Novel Text Mining Approach Based on TF-IDF and Support Vector Machine for News
 ## Introduction
 This repository implements a news classification method based on TF-IDF (Term Frequency-Inverse Document Frequency) and SVM (Support Vector Machine). The approach is inspired by the paper "A Novel Text Mining Approach Based on TF-IDF and Support Vector Machine for News Classification". The goal is to classify news articles into distinct categories to facilitate quick access to relevant information.
 
-## Problem Statement and Objectives
-The project addresses the challenge of automatically classifying news articles into different categories. With the vast amount of textual data available online, efficient tools are needed for organizing and retrieving information. News classification helps users identify articles of interest across categories such as business, entertainment, politics, sports, and technology. The proposed method uses TF-IDF for feature extraction and SVM for classification, evaluated primarily on the BBC dataset.
 
 ## State of the Art
 Previous techniques in news classification include:
