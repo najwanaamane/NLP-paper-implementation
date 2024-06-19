@@ -78,7 +78,7 @@ The precision and F1-score tables per class indicate that categories like "sport
 ### Weaknesses
 - **Dependency on RapidMiner**: The paper relies on RapidMiner for data preprocessing, which may limit reproducibility and adaptability for those without access to this tool.
 - **Unbalanced Data**: The paper does not discuss the impact of class imbalance in the datasets used, which could significantly affect model performance.
-- **Lack of Comprehensive Comparison**: While results are compared with other methods, the paper lacks detailed insights into exact configurations and hyperparameters used for these comparisons, making it challenging to fully evaluate the robustness of the proposed method.
+- **Lack of Comprehensive Comparison**: While results are compared with other methods, the paper lacks detailed insights into exact configurations and hyperparameters used for these comparisons, making it challenging to fully evaluate the robustness of the proposed method. 
 
 ---
 
